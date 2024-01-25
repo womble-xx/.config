@@ -1,0 +1,8 @@
+require("thomas.lazy")
+require("thomas.options")
+require("thomas.remaps")
+require("thomas.lsp")
+require("thomas.cmp")
+require("thomas.telescope")
+require("thomas.treesitter")
+require("thomas.autopair")
